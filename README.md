@@ -14,7 +14,7 @@ for object detection and segmentation. Native DICOM / NIfTI support.
 
 ## Guides
 - [Quick start](docs/quick-start.md)
-- [API reference](docs/api.md)
+<!-- - [API reference](docs/api.md) -->
 
 ## Contact
 support@trainox.ai
